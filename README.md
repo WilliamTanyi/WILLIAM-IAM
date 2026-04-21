@@ -7,6 +7,6 @@
 - [Role Assignments](https://github.com/WilliamTanyi/Role-assignments)
 - [Group Assignments](https://github.com/WilliamTanyi/Group-Assignments)
 - [Identity Lifecycle](https://github.com/WilliamTanyi/Identity-life-cycle)
-- [Audit Logs]()
+- [Audit Logs](https://github.com/WilliamTanyi/Audit-logs)
 - [Sign-In Logs]()
 - [Authentication]()
