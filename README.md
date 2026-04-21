@@ -5,7 +5,7 @@
 - [Creating User's in Entra ID](https://github.com/WilliamTanyi/User-Account)
 - [Cloud Provisioning - P2 Licensing](https://github.com/WilliamTanyi/P2-license)
 - [Role Assignments](https://github.com/WilliamTanyi/Role-assignments)
-- [Group Assignments]()
+- [Group Assignments](https://github.com/WilliamTanyi/Group-Assignments)
 - [Identity Lifecycle]()
 - [Audit Logs]()
 - [Sign-In Logs]()
