@@ -9,4 +9,4 @@
 - [Identity Lifecycle](https://github.com/WilliamTanyi/Identity-life-cycle)
 - [Audit Logs](https://github.com/WilliamTanyi/Audit-logs)
 - [Sign-In Logs](https://github.com/WilliamTanyi/Signing-logs)
-- [Authentication]()
+- [Authentication](https://github.com/WilliamTanyi/Authentication)
